@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Title</title>
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="favicon.ico">
+</head>
+<body>
+  <header class="header">
+<a class="logo">
+  <img src="3.png">
+  </a>
+<nav class="nav">
+<a href="#posts" class="nav-item">Travel</a>
+<a href="#footer" class="nav-item">About us</a>
+</nav>
+</header>
+<main class="main">
+<div class="box">
+<div class="box-base">
+<h1 align="center" style="color:Black">SAIAHAT</h1>
+<p><h2 align="center" style="color:Black">Your personal travel guide</h2></p>
+</div>
+<div class="box-side">
+<div class="sqr">
+<p style="color:white; "><em> Цели:<br>
+  <ul  style="color:white; ">
+    <li><span>цель 1</span> </li>
+    <li><span>цель 2</span> </li>
+    <li><span>цель 2</span> </li>
+    <li><span>цель 2</span> </li>
+  </ul>
+  </em></p>
+</div>
+</div>
+</div>
+ <hr width="958" color="#008000" size="1">
+<div class="content">
+<div class="banners">
+<div class="banner">фото 1</div>
+<div class="banner">фото 2</div>
+<div class="banner">фото 3</div>
+<div class="banner">фото 4</div>
+<div class="banner">фото 5</div>
+<div class="banner">фото 6</div>
+</div>
+<div class="posts"  id="posts">
+<div class="post">
+<h1>Южный Казахстан</h1>
+<p>  <div class="display">
+  <table border="1">
+<tr>
+<td><strong> Location:</strong></td>
+<td><a href="https://ru.wikipedia.org/wiki/%D0%AE%D0%B6%D0%BD%D1%8B%D0%B9_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD">Южный Казахстан</a></td>
+</tr></table>
+</div><ol>
+  <li><span>Заилийское Алатау</span> </li>
+  <li><span>Пик Хан-Тенгри</span> </li>
+  <li><span>Озера Кольсай</span> </li>
+</ol></p>
+</div>
+<div class="post">
+<h1>Восточный Казахстан</h1>
+<p>  <div class="display">
+  <table border="1">
+<tr>
+<td><strong> Location:</strong></td>
+<td><a href="https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD">Восточный Казахстан</a></td>
+</tr>
+</table>
+</div><ol>
+  <li><span>Озеро Маркаколь</span> </li>
+  <li><span>Гора Белуха</span> </li>
+  <li><span>Озеро Алаколь</span> </li>
+</ol></p>
+</div>
+<div class="post">
+<h1>Центральный Казахстан</h1>
+<p><div class="display">
+  <table border="1">
+<tr>
+<td><strong> Location:</strong></td>
+<td><a href="https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD">Центральный Казахстан</a></td>
+</tr>
+</table>
+</div><ol>
+  <li><span>Озеро Балхаш</span> </li>
+  <li><span>Горный массив Бектау-ата</span> </li>
+  <li><span>Озеро Карасор</span> </li>
+</ol></p>
+</div>
+<div class="post">
+<h1>Северный Казахстан</h1>
+<p><div class="display">
+  <table border="1">
+<tr>
+<td><strong>Location:</strong></td>
+<td><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD">Северный Казахстан</a></td>
+</tr>
+</table>
+</div>
+<ol>
+  <li><span>Астана – столица Республики Казахстан</span> </li>
+  <li><span>Баян-Аул</span> </li>
+</ol>
+</p>
+</div>
+<div class="post">
+<h1>Западный Казахстан</h1>
+<p><div class="display">
+  <table border="1">
+<tr>
+<td><strong>Location:</strong></td>
+<td><a href="https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D1%8B%D0%B9_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD">Западный Казахстан</a></td>
+</tr>
+</table>
+</div>
+<ol>
+  <li><span>Реки – Урал, Эмба</span> </li>
+  <li><span>Археологические памятники</span> </li>
+</ol></p>
+</div>
+</div>
+<hr width="958" color="#008000" size="1">
+</main>
+<footer class="footer"  id="footer">
+контакты инста и тд
+<a href="URL"> какая-то ссылка </a>
+</body>
+</html>
